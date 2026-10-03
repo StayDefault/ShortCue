@@ -1,3 +1,18 @@
+
+# Local development references
+/DEVELOPMENT_PROMPT.md
+/REQUIREMENTS.md
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# ShortCue runtime data — reserve these folders for private data
+/runtime-data/
+/logs/
+/models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
