@@ -2,6 +2,7 @@
 # Local development references
 /DEVELOPMENT_PROMPT.md
 /REQUIREMENTS.md
+/docs/foundation.md
 
 # Local secrets
 .env
